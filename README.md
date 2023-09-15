@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name], a passionate computer science major with a focus on web development, data science, and software engineering. 🚀
+👋 Hi there! I'm Dominick Griggs, a passionate computer science major with a focus on web development, data science, and software engineering. 🚀
 
 🎓 Currently a junior developer, I'm on an exciting journey to master both frontend and backend technologies. 💻
 
